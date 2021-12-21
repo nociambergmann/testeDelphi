@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/19 13:47:00.000.695,=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/19 14:49:41.000.519,=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/12/19 14:50:30.000.496,C:\Users\andri\Documents\Embarcadero\Studio\Projects\cliente.pas=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/12/19 14:57:50.000.529,=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/12/19 14:58:01.000.779,C:\Users\andri\Documents\Embarcadero\Studio\Projects\ListaCliente.pas=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/12/19 15:06:54.000.450,C:\Users\andri\Documents\Embarcadero\Studio\Projects\SitemasPedido.dfm=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/12/19 15:06:54.000.450,C:\Users\andri\Documents\Embarcadero\Studio\Projects\SitemasPedido.pas=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/19 15:07:44.000.677,=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/19 15:08:58.000.176,C:\Users\andri\Documents\Embarcadero\Studio\Projects\Regras.pas=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/19 15:09:34.000.539,C:\Users\andri\Documents\Embarcadero\Studio\Projects\USistemaPedido.pas=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Regras.pas</Transaction>
+    <Transaction>2021/12/19 15:42:04.000.694,=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/19 15:43:10.000.735,C:\Users\andri\Documents\Embarcadero\Studio\Projects\event.pas=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/19 16:14:08.000.163,=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/19 16:16:35.000.382,C:\Users\andri\Documents\Embarcadero\Studio\Projects\mysql.dfm=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/12/19 16:16:35.000.382,C:\Users\andri\Documents\Embarcadero\Studio\Projects\mysql.pas=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/19 18:08:47.000.271,C:\Users\andri\Documents\Embarcadero\Studio\Projects\mysql.pas=</Transaction>
+    <Transaction>2021/12/19 18:55:05.000.422,=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/19 18:55:43.000.022,C:\Users\andri\Documents\Embarcadero\Studio\Projects\frmClientePedido.pas=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/19 18:55:43.000.022,C:\Users\andri\Documents\Embarcadero\Studio\Projects\frmClientePedido.dfm=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/12/19 19:13:18.000.832,C:\Users\andri\Documents\Embarcadero\Studio\Projects\USistemaPedido.pas=</Transaction>
+    <Transaction>2021/12/19 19:13:24.000.322,C:\Users\andri\Documents\Embarcadero\Studio\Projects\frmClientePedido.pas=</Transaction>
+    <Transaction>2021/12/19 19:13:27.000.643,C:\Users\andri\Documents\Embarcadero\Studio\Projects\cliente.pas=</Transaction>
+    <Transaction>2021/12/19 19:13:30.000.357,C:\Users\andri\Documents\Embarcadero\Studio\Projects\event.pas=</Transaction>
+    <Transaction>2021/12/19 23:44:37.000.083,=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/19 23:44:52.000.010,C:\Users\andri\Documents\Embarcadero\Studio\Projects\Produtos.pas=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/20 14:15:44.000.520,C:\Users\andri\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\andri\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/12/21 13:17:34.000.643,C:\Users\andri\Documents\Embarcadero\Studio\Projects\Produtos.pas=</Transaction>
+    <Transaction>2021/12/21 13:18:27.000.037,=C:\Users\andri\Documents\Embarcadero\Studio\Projects\frmClientePedido.pas</Transaction>
+    <Transaction>2021/12/21 13:18:41.000.065,C:\Users\andri\Documents\Embarcadero\Studio\Projects\frmClientePedido.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
